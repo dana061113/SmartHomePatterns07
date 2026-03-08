@@ -1,0 +1,1 @@
+# SmartHomePatterns07
